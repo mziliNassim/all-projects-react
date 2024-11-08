@@ -35,9 +35,9 @@ const Navigation = () => {
                 <NavLink to="/reactjs" className="mx-3 navLink">
                   React JS
                 </NavLink>
-                <NavLink to="/php" className="mx-3 navLink">
+                {/* <NavLink to="/php" className="mx-3 navLink">
                   Php
-                </NavLink>
+                </NavLink> */}
               </Nav>
               {/* <Form className="d-flex">
                 <Form.Control

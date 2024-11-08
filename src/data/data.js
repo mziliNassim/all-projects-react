@@ -21,7 +21,7 @@ export const projects = [
     id: 3,
     type: "React JS",
     name: "Menu Food",
-    desc: "",
+    desc: "Indulge in our delightful selection of meals and refreshing drinks, crafted to satisfy your taste buds with flavors that are both bold and comforting. Every dish and beverage is thoughtfully prepared with quality ingredients and attention to detail, bringing you a dining experience that’s more than just a meal—it’s a moment to savor. Whether you're in the mood for something hearty, light, or a bit of both, our menu offers a variety that caters to every craving. Let us elevate your dining experience with flavors that linger and moments to remember.",
     github: "https://github.com/mziliNassim/menu-food",
     preview: "https://nassimmenufood.netlify.app/",
     img: "./img/projects/menu food.png",

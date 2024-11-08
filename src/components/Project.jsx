@@ -10,7 +10,7 @@ const Project = ({ project }) => {
           <div class="banner-image">
             <img src={project.img} alt="dd" />
           </div>
-          <p>{project.desc}</p>
+          <p className="desc">{project.desc.slice(0, 240)}...</p>
         </div>
         <div class="button-wrapper">
           <Link to={project.github} target="_blanc" class="button btn outline">
